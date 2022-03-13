@@ -9,6 +9,4 @@ To access postgres to create a new db for a Node.js app use:
 
 All SQL commands take a semi colon at the end or the commands won't run.
 
-<!-- ? How to resolve the req.body = undefined issue? -->
-
-https://www.youtube.com/watch?v=z4BNZfZ1Wq8 stopped at 41:08 due to issue with request for POST method.
+[TS PG CRUD API tutorial](https://www.youtube.com/watch?v=z4BNZfZ1Wq8) FYI it's in spanish, but high quality.
